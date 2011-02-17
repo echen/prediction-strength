@@ -1,6 +1,6 @@
 # About
 
-An implementation of the prediction strength algorithm from Tibshirani, Walther, Botstein, and Brown's "Cluster validation by prediction strength".
+An implementation of the prediction strength algorithm from Tibshirani, Walther, Botstein, and Brown's "Cluster validation by prediction strength". A description of the algorithm can be found [here](http://echen.me/posts/counting-clusters).
 
 # Examples
 
